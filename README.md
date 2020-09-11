@@ -1,5 +1,5 @@
-# K_Nearest_Neighbhor
-A simple ( scrappy ) implementation of K nearest Neighbhor classifier,
+# K_Nearest_Neighbor
+A simple ( scrappy ) implementation of K nearest Neighbor classifier, (currently k = 1)
 
 Learnt from the YouTube series: **Machine Learning Recipes with Josh Gordon**, Video number **5**.
 
